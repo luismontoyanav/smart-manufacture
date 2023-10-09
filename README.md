@@ -1,2 +1,6 @@
 # smart-manufacture
-just for fun!
+Python/Django -> backend 
+PostgreSQL -> DB
+MongoDB -> Data
+HTML-CSS-JS -> Frontend
+Realtime -> ???
